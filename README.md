@@ -14,5 +14,7 @@ In this example the server is retreving informations about tracks of the loved p
 npm install
 node index.js
 # go to the web page /
-# you will be redirected to Deezer login then the to the Deezer authorization page then to the localhost:3000/auth
+# you will be redirected to Deezer login
+# then to the Deezer authorization page
+# then to the localhost:3000/auth
 ```
