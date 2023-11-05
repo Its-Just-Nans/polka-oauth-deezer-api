@@ -1,4 +1,4 @@
-# polka-deezer-api
+# polka-oauth-deezer-api
 
 A tiny web server using [polka](https://github.com/lukeed/polka) to access the [Deezer API](https://api.deezer.com/) using the [OAuth Procedure](https://developers.deezer.com/api/oauth).
 
