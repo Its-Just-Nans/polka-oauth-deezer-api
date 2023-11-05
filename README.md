@@ -8,11 +8,11 @@ In this example the server is retreving informations about tracks of the loved p
 
 - Create a Deezer App at [https://developers.deezer.com/myapps](https://developers.deezer.com/myapps).
 - Edit the config.json file
-- Run commands
+- Run these commands:
 
 ```sh
-npm i
+npm install
 node index.js
 # go to the web page /
-# you will be redirected to Deezer login then the Deezer authorization page
+# you will be redirected to Deezer login then the to the Deezer authorization page then to the localhost:3000/auth
 ```
